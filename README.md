@@ -119,4 +119,3 @@ You can watch the demo below:
 The workflow of the project is illustrated below:
 
 ![Workflow](media/workflow.png)
-

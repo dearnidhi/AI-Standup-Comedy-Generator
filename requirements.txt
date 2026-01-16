@@ -1,0 +1,5 @@
+streamlit
+python-dotenv
+requests
+langgraph==0.0.47
+langchain-core==0.1.52

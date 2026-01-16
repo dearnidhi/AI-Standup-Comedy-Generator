@@ -1,0 +1,8 @@
+
+# .gitignore
+.env
+generated_memes/
+__pycache__/
+*.pyc
+.DS_Store
+.venv

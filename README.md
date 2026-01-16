@@ -4,11 +4,6 @@
 
 ---
 
-
-
-
----
-
 ## ⚡ Features
 
 - **Personalized Roast Jokes** – Customize with a person’s name, traits, and roast level.  

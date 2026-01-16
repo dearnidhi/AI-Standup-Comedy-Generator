@@ -4,7 +4,6 @@
 
 ---
 
-## 📂 Project Structure
 
 
 
@@ -52,14 +51,9 @@ HF_SD_MODEL=stabilityai/stable-diffusion-xl-base-1.0
 🚀 Usage
 
 Run the Streamlit app:
-
 streamlit run app.py
-
-
 Enter Person Name, Traits, and Roast Level.
-
 Click Generate.
-
 The app outputs a polished, ready-to-perform comedy script.
 
 🧠 Agents Overview
@@ -100,20 +94,6 @@ langchain-core>=0.1.46
 
 
 Note: Adjust langgraph and langchain-core versions if you hit dependency conflicts. Always check the latest compatible versions in the official docs.
-
-### Demo Video
-
-# AI Stand-up Comedy
-
-This project generates AI-powered stand-up comedy content.  
-
-## Demo Video
-You can watch the demo below:
-
-<video width="640" height="360" controls>
-  <source src="media/Demo-AI-StandUpComedy.mp4" type="video/mp4">
-  Your browser does not support the video tag.
-</video>
 
 ## Workflow
 The workflow of the project is illustrated below:

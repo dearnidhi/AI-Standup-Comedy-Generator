@@ -52,10 +52,10 @@ Click Generate.
 The app outputs a polished, ready-to-perform comedy script.
 
 🧠 Agents Overview
-Agent	F       unction
-joke_writer.py	Generates roast jokes based on input name, traits, and roast level.
-roast_controller.py	Adjusts intensity of the jokes (light, medium, savage).
-delivery_agent.py	Combines jokes into a polished script ready for delivery.
+Agent	                Function
+joke_writer.py	      Generates roast jokes based on input name, traits, and roast level.
+roast_controller.py	  Adjusts intensity of the jokes (light, medium, savage).
+delivery_agent.py	    Combines jokes into a polished script ready for delivery.
 
 🔧 Utils
 llm.py – Helper for calling LLMs via GROQ or HuggingFace. Handles prompt formatting, temperature, and outputs clean responses.
